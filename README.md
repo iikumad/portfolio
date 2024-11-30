@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 # Clone this repository:
 
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/iikumad/portfolio
 Navigate to the project folder:
 
 # cd portfolio
