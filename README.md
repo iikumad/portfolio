@@ -29,12 +29,12 @@ To run this project locally, follow these steps:
 git clone https://github.com/iikumad/portfolio
 Navigate to the project folder:
 
-# cd portfolio
+cd portfolio
 # Install dependencies (if applicable):
 
 npm install
 # Start the development server:
 
-npm start (in frontend)
-npm start (in backend)
+npm start (in frontend) <br>
+npm start (in backend) <br>
 The app should now be running at http://localhost:3000 (or another port depending on your setup).
